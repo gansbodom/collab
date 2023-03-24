@@ -1,3 +1,1 @@
 # Collaboration
-
-Тест тест 
